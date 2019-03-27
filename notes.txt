@@ -1,0 +1,14 @@
+https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node
+
+npm install -g vue-cli@2.9.3
+
+vue init pwa my-vue-app
+cd ./my-vue-app
+npm install
+npm run dev
+
+
+
+npm i bootstrap-vue@2.0.0-rc.7 bootstrap@4.1.0 --save
+
+npm i express@4.16.3 cors@2.8.4 @okta/jwt-verifier@0.0.11 sequelize@4.37.6 sqlite3@4.0.0 epilogue@0.7.1 axios@0.18.0 --save
